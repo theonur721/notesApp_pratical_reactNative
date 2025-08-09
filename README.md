@@ -3,8 +3,6 @@
 React Native ile geliştirilmiş basit bir not defteri uygulamasıdır.  
 Kullanıcılar not ekleyebilir, listeleyebilir ve silebilir. Uygulama, notları cihazda kalıcı olarak saklar (AsyncStorage).
 
----
-
 ## ✨ Özellikler
 
 - ✏️ Yeni not ekleme
@@ -17,4 +15,3 @@ Kullanıcılar not ekleyebilir, listeleyebilir ve silebilir. Uygulama, notları 
 ## 📸 Screen Giif
 
 ![](src/assets/ekran.gif)
-# notesApp_pratical_reactNative
